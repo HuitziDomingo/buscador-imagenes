@@ -1,0 +1,11 @@
+.container{
+    display: grid;
+    background-color: #eee;
+    justify-content: center;
+    align-items: center
+}
+
+.center{
+    column-count: 3;
+    width: 1200px;
+}
